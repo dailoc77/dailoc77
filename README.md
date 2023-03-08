@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://th.bing.com/th/id/R.0d6f2a3530fd2c56e28828a902c30c13?rik=SCsL%2boGJpQWEfg&pid=ImgRaw&r=0">
+
 <!--
 **dailoc77/dailoc77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
